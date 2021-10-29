@@ -1,0 +1,9 @@
+opencv-python
+playsound
+gtts
+numpy
+pandas
+SpeechRecognition
+fuzzywuzzy
+python-Levenshtein
+pyttsx3
